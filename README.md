@@ -1,4 +1,5 @@
-🗄️ SQL Project – Database Concepts, Querying & Practical Analysis
+SQL Project – Database Concepts, Querying & Practical Analysis
+
 A hands‑on SQL project demonstrating relational database skills, joins, schema design, and real‑world querying.
 
 🔍 Overview
